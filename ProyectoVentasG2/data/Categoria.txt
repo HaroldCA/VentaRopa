@@ -1,0 +1,7 @@
+C1	Chompas
+C2	Pantalones
+C3	Camisas
+C4	Casacas
+C5	Medias
+C6	chaleco 
+C7	Polos
